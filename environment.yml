@@ -1,0 +1,8 @@
+name: spark-ml
+dependencies:
+  - numpy
+  - pandas
+  - pyspark
+  - pandas
+  - matplotlib
+  - seaborn
